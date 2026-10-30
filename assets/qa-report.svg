@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0a1f"/><stop offset=".5" stop-color="#151a3a"/><stop offset="1" stop-color="#062a3a"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c5cff"/><stop offset="1" stop-color="#e879f9"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.d{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style></defs>
+<rect x=".5" y=".5" width="1199" height="249" rx="20" fill="url(#bg)" stroke="#2a3366"/>
+<circle class="d" cx="44" cy="46" r="7" fill="#28c840"/>
+<text x="62" y="53" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#e6e9f5">Test Suite Report</text>
+<text x="1170" y="53" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b93b8">status: <tspan fill="#28c840">all checks green</tspan></text>
+<g transform="translate(30.0,86)"><rect width="270" height="128" rx="16" fill="#0f1430" stroke="#00f5ff" stroke-opacity=".45"/>
+<rect width="270" height="4" rx="2" fill="#00f5ff"/>
+<text x="22" y="62" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="800" fill="#00f5ff" filter="url(#glow)">88</text>
+<text x="22" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6e9f5">automated tests</text>
+<text x="22" y="112" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b93b8">Playwright · Pytest · Jest</text></g><g transform="translate(320.0,86)"><rect width="270" height="128" rx="16" fill="#0f1430" stroke="#28c840" stroke-opacity=".45"/>
+<rect width="270" height="4" rx="2" fill="#28c840"/>
+<text x="22" y="62" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="800" fill="#28c840" filter="url(#glow)">46/46</text>
+<text x="22" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6e9f5">unit tests passing</text>
+<text x="22" y="112" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b93b8">verified with Jest</text></g><g transform="translate(610.0,86)"><rect width="270" height="128" rx="16" fill="#0f1430" stroke="#7c5cff" stroke-opacity=".45"/>
+<rect width="270" height="4" rx="2" fill="#7c5cff"/>
+<text x="22" y="62" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="800" fill="#7c5cff" filter="url(#glow)">100%</text>
+<text x="22" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6e9f5">code coverage</text>
+<text x="22" y="112" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b93b8">statements · branches · lines</text></g><g transform="translate(900.0,86)"><rect width="270" height="128" rx="16" fill="#0f1430" stroke="#e879f9" stroke-opacity=".45"/>
+<rect width="270" height="4" rx="2" fill="#e879f9"/>
+<text x="22" y="62" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="44" font-weight="800" fill="#e879f9" filter="url(#glow)">3</text>
+<text x="22" y="90" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6e9f5">CI pipelines</text>
+<text x="22" y="112" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#8b93b8">GitHub Actions on every push</text></g>
+</svg>
