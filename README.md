@@ -66,6 +66,7 @@ motto: "Quality is not an act, it's a habit."
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/laraib-liaquat-282316216"><img src="https://img.shields.io/badge/LinkedIn-Laraib%20Liaquat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/laraib421"><img src="https://img.shields.io/badge/GitHub-laraib421-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
