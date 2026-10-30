@@ -37,8 +37,8 @@
 ## 📊 My GitHub Glow-Up
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laraib421&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=f06eaa&icon_color=b07cff&text_color=6b3a6b&ring_color=f06eaa" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib421&layout=compact&hide_border=true&bg_color=fff0f7&title_color=f06eaa&text_color=6b3a6b" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laraib421&theme=default" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laraib421&theme=default" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=laraib421&hide_border=true&background=FFF0F7&ring=F06EAA&fire=B07CFF&currStrNum=F06EAA&sideNums=6B3A6B&currStrLabel=F06EAA&sideLabels=6B3A6B&dates=9C7A9C&stroke=F5C6DD" />
 </div>
