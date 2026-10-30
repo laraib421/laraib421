@@ -1,58 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc3e1,100:d6c1ff&height=200&section=header&text=Hi,%20I'm%20Laraib%20🌸&fontSize=46&fontColor=6b3a6b&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20✨%20turning%20ideas%20into%20pretty%20websites&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c9ff&height=220&section=header&text=Laraib&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=QA%20Engineer%20%E2%80%A2%20Test%20Automation%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/laraib421"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=F06EAA&center=true&vCenter=true&width=520&lines=Web+Developer+%F0%9F%92%BB%F0%9F%8E%80;I+build+cute+%26+useful+web+apps+%E2%9C%A8;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python;Always+learning+something+new+%F0%9F%8C%B7" alt="Typing SVG" /></a>
+<a href="https://github.com/laraib421"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=640&lines=%F0%9F%90%9E+QA+Engineer+%E2%80%94+I+break+things+so+users+don't;%F0%9F%A4%96+Test+Automation%3A+Playwright+%E2%80%A2+Pytest+%E2%80%A2+Jest;%F0%9F%92%BB+Web+Developer%3A+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;%E2%9C%85+If+it's+not+tested%2C+it's+broken." alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=laraib421&color=ff8fc8&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/laraib421?label=Followers&style=flat-square&color=c9a7ff" />
+<img src="https://komarev.com/ghpvc/?username=laraib421&color=00c9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/laraib421?label=FOLLOWERS&style=for-the-badge&color=7c5cff&logo=github" />
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🧑‍💻 `whoami`
 
-- 💻 **Web developer** who loves making websites that are both *pretty* and *practical*
-- 🧸 Currently building **SmartCare** — a caring web app with games, parent views & Urdu guidance
-- 🌍 Exploring data with Python through **air-quality (AQI) prediction** projects
-- 🌱 Always learning — one commit at a time
-- 💖 Fun fact: I believe good design is a kind of kindness
+```yaml
+name: Laraib
+roles: [QA Engineer, Web Developer]
+testing: [E2E UI, API, Unit, Regression, Exploratory]
+automation: [Playwright, Pytest, Jest, GitHub Actions CI]
+web: [HTML, CSS, JavaScript, TypeScript, Python]
+currently_building: SmartCare — a caring web app for parents & kids
+motto: "Quality is not an act, it's a habit."
+```
 
-## 🎀 Tech I Love
+## 🧰 QA & Dev Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,git,github,vscode&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,jest,git,github,githubactions,vscode&theme=dark&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-## ✨ Featured Projects
+## 🚀 Featured Projects
 
-| 🌸 Project | 💬 What it is | 🛠️ Built with |
+| Project | What it does | Stack |
 |---|---|---|
-| [**securepass**](https://github.com/laraib421/securepass) | Web-based secure pass system | HTML |
-| [**AQIHyderabad10PEARLS**](https://github.com/laraib421/AQIHyderabad10PEARLS) | Air-quality prediction for Hyderabad | Python |
-| [**womenquest26**](https://github.com/laraib421/womenquest26) | WomenQuest 2026 project | Python |
-| [**event-management-**](https://github.com/laraib421/event-management-) | Event management web app | Web |
+| 🎭 [**playwright-e2e-automation**](https://github.com/laraib421/playwright-e2e-automation) | E2E UI framework — Page Object Model, cross-browser + mobile, CI reports | Playwright · TypeScript |
+| 🔌 [**api-testing-pytest**](https://github.com/laraib421/api-testing-pytest) | REST API suite — CRUD, JSON-schema contracts, negative & perf checks | Python · Pytest |
+| ✅ [**qa-validators-jest**](https://github.com/laraib421/qa-validators-jest) | Validation library — 46 tests, 100% coverage, BVA & equivalence partitioning | JavaScript · Jest |
+| 🐞 [**bug-tracker-dashboard**](https://github.com/laraib421/bug-tracker-dashboard) | Kanban bug tracker — drag & drop, live stats, CSV export | HTML · CSS · JS |
+| 🔐 [**securepass**](https://github.com/laraib421/securepass) | Web-based secure pass system | HTML |
+| 🌍 [**AQIHyderabad10PEARLS**](https://github.com/laraib421/AQIHyderabad10PEARLS) | Air-quality prediction for Hyderabad | Python |
 
-## 📊 My GitHub Glow-Up
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laraib421&theme=default" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laraib421&theme=default" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=laraib421&hide_border=true&background=FFF0F7&ring=F06EAA&fire=B07CFF&currStrNum=F06EAA&sideNums=6B3A6B&currStrLabel=F06EAA&sideLabels=6B3A6B&dates=9C7A9C&stroke=F5C6DD" />
-</div>
-
-## 💌 Let's Connect
+## 🏙️ 3D Contribution Skyline
 
 <p align="center">
-  <a href="https://github.com/laraib421"><img src="https://img.shields.io/badge/GitHub-laraib421-ff8fc8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="assets/3d-contrib.svg" alt="3D contribution skyline" width="100%" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laraib421&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laraib421&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laraib421&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/laraib421"><img src="https://img.shields.io/badge/GitHub-laraib421-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
 
-<i>“Code with love, design with heart.”</i> 🎀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d6c1ff,100:ffc3e1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
